@@ -1,4 +1,3 @@
---kiriot22s esp if i get lazy on crating esp
 --Settings--
 local ESP = {
     Enabled = false,
